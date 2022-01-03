@@ -7,7 +7,7 @@ function sumOfAllOddNumbers(nums) {
     }
     return counter
 }
-console.log(
-        sumOfAllOddNumbers([2, 4, 6, 7, 8, 9, 10]))
-    // Do not edit this line;
+// console.log(
+//         sumOfAllOddNumbers([2, 4, 6, 7, 8, 9, 10]))
+// Do not edit this line;
 module.exports = sumOfAllOddNumbers;

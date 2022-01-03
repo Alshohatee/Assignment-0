@@ -7,7 +7,7 @@ function countOfAllIndexMatchingNumbers(nums) {
     }
     return counter
 }
-console.log(countOfAllIndexMatchingNumbers([0, 1, 2, 3, 4]))
+// console.log(countOfAllIndexMatchingNumbers([0, 1, 2, 3, 4]))
 
 // Do not edit this line;
 module.exports = countOfAllIndexMatchingNumbers;

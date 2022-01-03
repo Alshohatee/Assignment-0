@@ -8,6 +8,6 @@ function sumOfNumsWithinARange(nums, start, end) {
     return counter
 
 }
-console.log(sumOfNumsWithinARange([2, 4, 5, 6, 23], 2, 23))
-    // Do not edit this line;
+// console.log(sumOfNumsWithinARange([2, 4, 5, 6, 23], 2, 23))
+// Do not edit this line;
 module.exports = sumOfNumsWithinARange;

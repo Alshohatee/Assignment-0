@@ -1,24 +1,45 @@
-* 00-greetFriend
-* 01-titleCaseEdit
-* 02-subtractFive
-* 03-cutInHalfAndFloor
+## Testing
 
-* 04-countOfAllBooleans
-* 05-countOfAllBooleansAndStrings
-* 06-countOfAllNumbersSmallerThanTarget
-* 07-countOfAllIndexMatchingNumbers
+Install the dependencies
 
-* 08-sumOfAllEvenNumbers
-* 09-sumOfAllOddNumbers
-* 10-sumOfNumsWithinARange
-* 11-sumOfMinimumAndMaximum
+```sh
 
-* 12-fizzBuzz
-* 13-isPalindrome
-* 14-frequencyCounter
-* 15-countDownSum
+npm run test-all
+```
 
-* 16-productOfAnyAmountOfNumbers
-* 17-setUnionOfAnyAmountOfSets
-* 18-pairSum
-* 19-binarySearch
+Run test
+
+```sh
+npm run test-all
+```
+
+or
+
+```sh
+npm run test-00
+```
+
+- 00-greetFriend
+- 01-titleCaseEdit
+- 02-subtractFive
+- 03-cutInHalfAndFloor
+
+- 04-countOfAllBooleans
+- 05-countOfAllBooleansAndStrings
+- 06-countOfAllNumbersSmallerThanTarget
+- 07-countOfAllIndexMatchingNumbers
+
+- 08-sumOfAllEvenNumbers
+- 09-sumOfAllOddNumbers
+- 10-sumOfNumsWithinARange
+- 11-sumOfMinimumAndMaximum
+
+- 12-fizzBuzz
+- 13-isPalindrome
+- 14-frequencyCounter
+- 15-countDownSum
+
+- 16-productOfAnyAmountOfNumbers
+- 17-setUnionOfAnyAmountOfSets
+- 18-pairSum
+- 19-binarySearch

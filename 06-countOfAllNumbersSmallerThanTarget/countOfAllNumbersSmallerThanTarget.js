@@ -7,6 +7,6 @@ function countOfAllNumbersSmallerThanTarget(nums, target) {
     }
     return counter
 }
-console.log(countOfAllNumbersSmallerThanTarget([1, 5, 3, 2, 20, 18], 18))
-    // Do not edit this line;
+// console.log(countOfAllNumbersSmallerThanTarget([1, 5, 3, 2, 20, 18], 18))
+// Do not edit this line;
 module.exports = countOfAllNumbersSmallerThanTarget;

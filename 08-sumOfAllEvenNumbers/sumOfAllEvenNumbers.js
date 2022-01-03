@@ -7,9 +7,5 @@ function sumOfAllEvenNumbers(nums) {
     }
     return counter
 }
-// console.log(
 
-//         sumOfAllEvenNumbers([2, 4, 6, 7, 8, 9, 10])
-//     )
-// Do not edit this line;
 module.exports = sumOfAllEvenNumbers;
